@@ -38,5 +38,7 @@
     <orderEntry type="library" name="transformers-0.5.5.0" level="project" />
     <orderEntry type="library" name="transformers-compat-0.6.2" level="project" />
     <orderEntry type="library" name="unbounded-delays-0.1.1.0" level="project" />
+    <orderEntry type="library" name="random-1.1" level="project" />
+    <orderEntry type="library" name="time-1.8.0.2" level="project" />
   </component>
 </module>

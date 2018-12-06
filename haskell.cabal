@@ -1,5 +1,5 @@
 name:                 haskell
-version:              0.1.0.0
+version:              0.1.0.1
 synopsis:
 -- description:
 -- license:
@@ -15,10 +15,14 @@ cabal-version:        >=1.10
 
 executable haskell
   main-is:              Main.hs
-  -- other-modules:
-  -- other-extensions:
+--  other-modules:        synchronous-channels
+--   other-extensions: synchronous-channels
   build-depends:        base >= 4.7 && < 5
                       , haskell
+                      , stm
+                      , synchronous-channels
+
+                      , random
   hs-source-dirs:       app
   default-language:     Haskell2010
 
