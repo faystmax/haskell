@@ -40,5 +40,15 @@
     <orderEntry type="library" name="unbounded-delays-0.1.1.0" level="project" />
     <orderEntry type="library" name="random-1.1" level="project" />
     <orderEntry type="library" name="time-1.8.0.2" level="project" />
+    <orderEntry type="library" name="data-accessor-0.2.2.8" level="project" />
+    <orderEntry type="library" name="distributed-process-0.7.4" level="project" />
+    <orderEntry type="library" name="distributed-static-0.3.8" level="project" />
+    <orderEntry type="library" name="exceptions-0.10.0" level="project" />
+    <orderEntry type="library" name="network-2.6.3.6" level="project" />
+    <orderEntry type="library" name="network-transport-0.5.2" level="project" />
+    <orderEntry type="library" name="network-transport-tcp-0.6.0" level="project" />
+    <orderEntry type="library" name="rank1dynamic-0.4.0" level="project" />
+    <orderEntry type="library" name="syb-0.7" level="project" />
+    <orderEntry type="library" name="synchronous-channels-0.2" level="project" />
   </component>
 </module>

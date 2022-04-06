@@ -21,7 +21,8 @@ executable haskell
                       , haskell
                       , stm
                       , synchronous-channels
-
+                      , distributed-process
+                      , network-transport-tcp
                       , random
   hs-source-dirs:       app
   default-language:     Haskell2010
